@@ -189,3 +189,9 @@
             padding-bottom: 25%;
         }
     }
+#team{
+    overflow-x: auto;
+    height: 40vh;
+    width: 60%;
+    margin: 0 auto;
+}
