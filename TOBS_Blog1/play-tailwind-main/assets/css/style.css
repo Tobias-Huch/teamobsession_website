@@ -134,7 +134,10 @@
     left: 0%;
     }
     }
-
+    #teamHeader{
+      font-size: 150% !important;
+      color: #0c8318; font-weight: bolder;
+    }
 
 
 
